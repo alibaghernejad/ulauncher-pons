@@ -1,0 +1,34 @@
+{
+    "required_api_version": "^2.0.0",
+    "name": "Pons extension",
+    "description": "A simple ulauncher extension to look up for the words in the Pons Dictionary.",
+    "developer_name": "Ali Baghernejad",
+    "icon": "images/icon.png",
+    "options": {
+      "query_debounce": 0.01
+    },
+    "preferences": [
+      {
+        "id": "keyword",
+        "type": "keyword",
+        "name": "Pons",
+        "description": "Define of words",
+        "default_value": "pons"
+      },
+      {
+        "id": "source",
+        "type": "input",
+        "name": "Source language",
+        "description": "Source language to translate to.",
+        "default_value": "german"
+      },
+      {
+        "id": "target",
+        "type": "input",
+        "name": "Target language",
+        "description": "Target language to translate to",
+        "default_value": "english"
+      }
+    ]
+  }
+  
