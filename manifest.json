@@ -1,6 +1,6 @@
 {
     "required_api_version": "^2.0.0",
-    "name": "Pons extension",
+    "name": "Pons",
     "description": "A simple ulauncher extension to look up for the words in the Pons Dictionary.",
     "developer_name": "Ali Baghernejad",
     "icon": "images/icon.png",
