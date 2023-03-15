@@ -1,11 +1,11 @@
 # Ulauncher-Pons
 
-A simple ulauncher extention to look up for the words in the Pons Dictionary.
+A simple ulauncher extension to look up for the words in the Pons Dictionary.
 
 ## Installation
 
 Simply open Ulauncher and go to the setting panel by clicking on the gear icon.
-Flow Extentions > Add extentions and then fill the text box with this URl:
+Follow extensions > Add extensions and then fill the text box with this URl:
 <https://github.com/AliBaghernejad/ulauncher-pons>
 
 ## Development Environment
